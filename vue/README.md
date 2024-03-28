@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # SalamTransit Vue Project Setup
+=======
+# SalamTransit
+>>>>>>> b76958f13935c1c120c1af779a8dd173241930a0
 ​
 This is the Vue starter project for the final capstone. This document walks you through how to set up and run the project. It also explains the project's features, such as Vue Router, Vuex, and authentication.
 ​
